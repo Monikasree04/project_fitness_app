@@ -1,3 +1,4 @@
+#eslintrc
 module.exports = {
   env: {
     browser: true,
